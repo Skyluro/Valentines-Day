@@ -13,7 +13,7 @@ move_button.addEventListener('mouseover', function () {
     move_button.style.top = `${Math.ceil(Math.random() * 90)}%`;
 });
 move_button.addEventListener('click', function () {
-    alert('you clicked me')
+    // alert('you clicked me')
 });
 
 function openEnvelope() {
